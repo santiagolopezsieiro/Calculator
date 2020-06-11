@@ -9,7 +9,8 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 ## Pre-requisitos clipboard
 Tener instalado Node.js
 
-### instalación y ejecucion wrench
+### instalación y ejecucion
+
 Dentro de la carpeta principal del proyecto ejecutar:
 
   npm start
